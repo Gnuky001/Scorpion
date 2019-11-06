@@ -1,0 +1,1 @@
+pyinstaller scorpion.py --hiddenimport cryptography --hiddenimport argparse --onefile
